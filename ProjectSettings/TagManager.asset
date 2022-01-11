@@ -12,19 +12,41 @@ TagManager:
   - wp
   - wpManager
   - Selectable
+  - Health
+  - SSword
+  - Dialogue
+  - DoorButton
+  - Door
+  - Key
+  - TradeSystem
+  - BigSword
+  - Store
+  - Item
+  - PlayerOR
+  - PlayerWeapon
+  - Fire
+  - NPC
+  - MonsterCloset
+  - PlayerRange
+  - NPC1
+  - BuyButton
+  - Fire2
+  - Invalid
+  - SellButton
+  - Boss
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Markers
   - Water
   - UI
+  - Coin
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Interact
+  - Obstacles
+  - Minimap
+  - Ground
   - 
   - 
   - 

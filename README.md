@@ -7,25 +7,25 @@
 ## Team Name
 
 Game Designers
-- Petter (Project Co-manager)
-- Erik
+- Petter Söderberg (Project Co-manager)
+- Erik Mattsson
 
 Game Programmers
-- Olle (Project Co-manager, Game Design Assistant)
-- Ben - (Lead Programmer)
-- Mohammed
-- Yasin
-- Mattias
-- Cecilia
+- Olle Reberg (Project Co-manager, Game Design Assistant)
+- Benjamin Ting - (Lead Programmer)
+- Muhammed
+- Yasin Cakiroglu
+- Mattias Lönnqvist
+- Cecilia Rihtnesberg
 
 Game Artists
-- Hanna (Lead Artist)
-- Rasmus
-- Jonathan
+- Hanna Kjellman (Lead Artist)
+- Rasmus Mårtenson
+- Jonathan Tesfamichale
 
 Sound Designers
-- Troy 
-- Robert
+- Troy Davis 
+- Robert Larsson
 
 Feel free to link any existing Linked.in Profiles or Portfolio Websites.
 

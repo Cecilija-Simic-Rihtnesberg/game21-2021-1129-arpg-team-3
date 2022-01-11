@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 269768421943818867}
   - component: {fileID: 269768421943818865}
   - component: {fileID: 7420058244168416433}
-  - component: {fileID: 4990129547719125169}
+  - component: {fileID: 7536160725618119853}
   m_Layer: 0
   m_Name: EnemyBT
   m_TagString: Enemy
@@ -165,7 +165,7 @@ NavMeshObstacle:
   m_CarveOnlyStationary: 1
   m_Center: {x: 0, y: 0, z: 0}
   m_TimeToStationary: 0.5
---- !u!114 &4990129547719125169
+--- !u!114 &7536160725618119853
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -174,12 +174,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 269768421943818829}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ca47bfc371a7f4f40835fc543b0de283, type: 3}
+  m_Script: {fileID: 11500000, guid: 4dcc71438afffa84096d44363365c7bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MaxHealth: 100
-  Health: 100
-  Armour: 5
+  health: 0
+  maxHealth: 0
+  armour: 0
 --- !u!1 &269768422377680088
 GameObject:
   m_ObjectHideFlags: 0

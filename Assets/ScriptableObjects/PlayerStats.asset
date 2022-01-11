@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c676125a9a11602448c8e714046a93f8, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: 
+  health: 100
+  playerArmour: 10
+  gold: 0
+  minHealth: 0
+  maxHealth: 100
+  weaponDamage: 40
+  meeleeRange: 1.75
+  experience: 0
+  maxExperience: 50
+  playerLevel: 0
+  playerLevelMultiplier: 1.5
+  xPMultiplier: 0.025
+  attackDelay: 0.5
+  combatRotationSpeed: 320
+  playerDied: 0
+  deathCount: 0
+  vulnerability: 0.2
+  zone: 0
+  secondary: 0
+  tertiary: 0
+  playerController: {fileID: 0}

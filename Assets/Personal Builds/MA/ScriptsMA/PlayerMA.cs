@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.EventSystems;
 
-public class PlayerMA : MonoBehaviour
+public class PlayerMA : MonoBehaviour 
 {
     private NavMeshAgent _agent;
 
@@ -25,7 +25,7 @@ public class PlayerMA : MonoBehaviour
             if (Physics.Raycast(ray, out hitinfo))
             {
                 print($"Hit{hitinfo.collider.name}");
-                Move(hitinfo.point);
+                _agent.SetDestination(hitinfo.point);
             }
         }
     }
